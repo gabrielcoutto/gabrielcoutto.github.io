@@ -8,9 +8,9 @@
 
 @font-face {
     font-family: 'Fira Sans-Bold' ;
-    src: url(/Fira_Sans/FiraSans-Bold.ttf);
+    src: url(/font/Fira_Sans/FiraSans-Bold.ttf);
 }
 @font-face {
     font-family: 'Fira Sans-Regular';
-    src: url(/Fira_Sans/FiraSans-Regular.ttf);
+    src: url(/font/Fira_Sans/FiraSans-Regular.ttf);
 }
